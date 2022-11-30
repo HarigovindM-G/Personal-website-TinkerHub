@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Poppins';
-    background-color:#FBF8CC;
+    background-color:#efe993;
     padding: 80px;
 }
 
@@ -81,7 +81,7 @@ body{
 }
 .skill_box{
     margin-left: 20px;
-    margin-right: 30px;
+    margin-right: 70px;
     text-align: center;
     
 }
@@ -92,10 +92,15 @@ body{
 .contact_right{
     margin-left: 50px;
 }
+
+.rightsection{
+    margin-top: 100px;
+}
 .profile{
     border-radius: 364px 256px 364px 346px;
-    width: 430px;
-    height: 430px;
-    margin-top: 100px;
+    height: 400px;
+    width: 300px;
+    margin-top: 1000x;
+    margin-right: 80px;
 
 }
